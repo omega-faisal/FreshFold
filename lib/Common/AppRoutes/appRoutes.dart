@@ -1,0 +1,33 @@
+class AppRoutes {
+  static const String SPLASH = "/";
+  static const String SPLASH02 = "/splash_02";
+  static const String WELCOME = "/welcome_scr";
+  static const String SIGNUP = "/sign_up_scr";
+  static const String SIGNIN = "/sign_in_scr";
+  static const String OTPSCREEN = "/otp_scr";
+  static const String LOCATIONSCREEN = "/location_scr";
+  static const String SHAREAPPSCREEN = "/share_app_scr";
+  static const String DELIVERYOPTIONSSCREEN = "/del_op_scr";
+  static const String TIMESLOTSCREEN = "/time_slot_scr";
+  static const String ORDERCONFIRMSCREEN = "/order_confirm_scr";
+  static const String PROFILESCREEN = "/profile_scr";
+  static const String ADDRESSSCREEN = "/address_scr";
+  static const String ADDRESSDETAILSSCREEN = "/address_det_scr";
+  static const String ADDRESSFORORDERSCREEN = "/address_for_order_scr";
+  static const String HELPSCREEN = "/help_scr";
+  static const String TERMSSCREEN = "/terms_scr";
+  static const String PRIVACYSCREEN = "/privacy_scr";
+  static const String APPLICATION = "/application_scr";
+  static const String SERVICE = "/service_scr";
+  static const String UPLOADIMAGE = "/upload_image_scr";
+  static const String INSTRUCTIONSCREEN = "/instruction_scr";
+  static const String NOTIFICATION = "/notification_scr";
+  static const String ORDERINFO = "/order_info_scr";
+  static const String ORDERSCREEN = "/order_scr";
+  static const String ABOUTUS = "/about_us_scr";
+  static const String ORDERDETAIL = "/order_detail_scr";
+  static const String ADDADDRESS = "/add_address_scr";
+  static const String REFUNDPOLICY = "/refund_scr";
+  static const String SHIPPINGPOLICY = "/shipping_policy_scr";
+  static const String RAZORPAY = "/razorpay_scr";
+}
